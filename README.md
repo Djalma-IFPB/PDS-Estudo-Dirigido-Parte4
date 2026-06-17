@@ -23,29 +23,29 @@ O trabalho aborda conceitos essenciais como filtros FIR (Finite Impulse Response
 
 > simulacoes:
 
-01 - Sinal com duas senoides + filtro passa-baixa.py
-02 - Ruído branco + FIR.py
-03 - Ruído branco + IIR Butterworth.py
-04 - Resposta em frequência FIR x IIR.py
-05 - Polos e zeros.py
-06 - Resposta ao impulso.py
-07 - Filtro passa-faixa.py
-08 - Comparação de fase.py
-09 - Atraso de grupo.py
-10 - Aplicação prática sensor agrícola.py
+01. Sinal com duas senoides + filtro passa-baixa.py
+02. Ruído branco + FIR.py
+03. Ruído branco + IIR Butterworth.py
+04. Resposta em frequência FIR x IIR.py
+05. Polos e zeros.py
+06. Resposta ao impulso.py
+07. Filtro passa-faixa.py
+08. Comparação de fase.py
+09. Atraso de grupo.py
+10. Aplicação prática sensor agrícola.py
 
 > resultados:
 
-01 - Sinal com duas senoides + filtro passa-baixa.png
-02 - Ruído branco + FIR.png
-03 - Ruído branco + IIR Butterworth.png
-04 - Resposta em frequência FIR x IIR.png
-05 - Polos e zeros.png
-06 - Resposta ao impulso.png
-07 - Filtro passa-faixa.png
-08 - Comparação de fase.png
-09 - Atraso de grupo.png
-10 - Aplicação prática sensor agrícola.png
+01. Sinal com duas senoides + filtro passa-baixa.png
+02. Ruído branco + FIR.png
+03. Ruído branco + IIR Butterworth.png
+04. Resposta em frequência FIR x IIR.png
+05. Polos e zeros.png
+06. Resposta ao impulso.png
+07. Filtro passa-faixa.png
+08. Comparação de fase.png
+09. Atraso de grupo.png
+10. Aplicação prática sensor agrícola.png
  
 Conteúdos Abordados
 
