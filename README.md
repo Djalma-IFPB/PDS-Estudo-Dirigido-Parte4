@@ -6,25 +6,22 @@ Disciplina: Processamento Digital de Sinais
 Instituição: Instituto Federal da Paraíba — IFPB  
 Curso: Telemática
 
-
-- Descrição:
+Descrição:
 
 Estudo Dirigido - Parte 4 da disciplina de Processamento Digital de Sinais (PDS), ministrada no Instituto Federal da Paraíba (IFPB) para os cursos de Engenharia da Computação e Telemática. O objetivo principal deste estudo é aprofundar a compreensão sobre os fundamentos de projeto e análise de filtros digitais, com foco em suas aplicações práticas e características teóricas.
 
 O trabalho aborda conceitos essenciais como filtros FIR (Finite Impulse Response) e IIR (Infinite Impulse Response), suas respostas em frequência e fase, estabilidade, polos e zeros, e o impacto do atraso de grupo em sistemas de comunicação. Através de simulações computacionais em Python, são exploradas as diferenças e aplicações desses filtros, fornecendo uma base sólida para a análise e projeto de sistemas de processamento de sinais.
 
-- Estrutura do Repositório
+> Estrutura do Repositório
 
 
-PDS-Estudo-Dirigido-Parte4
-
-README.md                       # Este arquivo
+* README.md                       ( Este arquivo )
 
 > teoria:
 
-resumo teorico.pdf              # Resumo teórico fundamentado
+* resumo teorico.pdf              ( Resumo teórico fundamentado )
 
->simulacoes:
+> simulacoes:
 
 01 - Sinal com duas senoides + filtro passa-baixa.py
 02 - Ruído branco + FIR.py
@@ -50,20 +47,20 @@ resumo teorico.pdf              # Resumo teórico fundamentado
 09 - Atraso de grupo.png
 10 - Aplicação prática sensor agrícola.png
  
-- Conteúdos Abordados
+Conteúdos Abordados
 
 
-- Resumo Teórico:
+> Resumo Teórico:
 
-01. Classificação dos Filtros Digitais
-02. Resposta em frequência
-03. Resposta em fase
-04. Atraso de grupo
-05. Estabilidade de filtros digitais (polos e zeros)
-06. Aplicações dos Filtros Digitais
+1. Classificação dos Filtros Digitais
+2. Resposta em frequência
+3. Resposta em fase
+4. Atraso de grupo
+5. Estabilidade de filtros digitais (polos e zeros)
+6. Aplicações dos Filtros Digitais
 
 
-Simulações Computacionais:
+> Simulações Computacionais:
 
 
 ## Questões e Simulações:
@@ -137,17 +134,11 @@ As simulações e análises realizadas neste estudo fornecem as ferramentas e o 
 
 > Como Executar (Esses códigos foram testados no https://colab.research.google.com/)
 
+> Execução:
 
-- Execução
+Abrir ou copiar os códigos dos arquivos para https://colab.research.google.com/ ou algum programas Phyton de sua preferência.
 
-> Abrir ou copiar os códigos dos arquivos para https://colab.research.google.com/ ou algum programas Phyton de sua preferência.
-
-- Conclusão
-
-Este estudo dirigido proporcionou O estudo dos filtros digitais é essencial para compreender como sinais podem ser
-manipulados de forma controlada e eficiente. O conhecimento das características dos filtros FIR e IIR, bem como dos conceitos de resposta em frequência, resposta de fase, atraso de grupo e estabilidade, fornece a base necessária para odesenvolvimento de soluções de engenharia em áreas como telecomunicações, instrumentação eletrônica, automação industrial, processamento de áudio e inteligência artificial embarcada.
-
-- Referências Bibliográficas
+* Referências Bibliográficas
 
 1. OPPENHEIM, A. V.; SCHAFER, R. W. Discrete-Time Signal Processing. 3. ed.
 Upper Saddle River: Prentice Hall, 2010.
